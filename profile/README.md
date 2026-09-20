@@ -1,27 +1,40 @@
-# Sophon
+# Sophon LLC
 
-**Building an AI-native workspace for documents, presentations, learning, and desktop agents.**
+**AI agents and productivity software for modern work.**
 
-We build tools that help people turn information into useful work: understand a document, create a presentation, learn from a book, or complete a task on their desktop.
+Sophon develops software for working with information and getting tasks done. Our product portfolio brings together desktop agents, an AI office suite, and focused tools for documents, presentations, and learning.
 
-## Our products
+[Company website](https://sophoninc.com/) · [Cue](https://heycue.io/) · [Cue Office](https://cueoffice.ai/) · [Contact](mailto:feedback@sophoninc.com)
 
-| Product | What it helps you do |
+## Flagship products
+
+### [Cue](https://heycue.io/) — Desktop AI agent
+Voice input, meeting notes, and task execution for macOS and Windows. Cue uses desktop context to help people work across the applications they already use.
+
+### [Cue Office](https://cueoffice.ai/) — AI office suite
+Documents, spreadsheets, presentations, and PDFs in one application, with integrated AI assistance for drafting, summarizing, and editing.
+
+## Product portfolio
+
+| Product | Focus |
 | --- | --- |
-| [PDF AI](https://chatpdfs.pro/) | Understand documents and turn your materials into summaries, notes, and audio learning content. |
-| [PPT AI](https://ppt.sophoninc.com/) | Turn a topic or source material into an editable presentation, then export to PPTX or PDF. |
-| [Evolve](https://myevolve.ai/) | Read and listen to concise non-fiction book summaries. |
-| [Cue](https://heycue.io/) | Use voice and desktop context to write, capture meeting notes, and complete tasks on Mac and Windows. |
+| [PDF AI](https://chatpdfs.pro/) | Document understanding, questions and answers, and content creation from source materials. |
+| [PPT AI](https://ppt.sophoninc.com/) | AI-assisted presentation creation with editable slides and export options. |
+| [PDF Scanner Max](https://sophoninc.com/products) | Mobile document scanning and PDF creation. |
+| [Evolve](https://myevolve.ai/) | Non-fiction book summaries for reading and listening. |
 
-## What we're building
+## Applied AI
 
-Our work connects document understanding, content creation, learning, and agent execution. We are bringing these capabilities together into a more continuous workflow, from understanding information to taking action.
+Our engineering work connects language models with practical desktop and document workflows. In Cue, local models support dictation polishing, with a cloud fallback when local inference is unavailable.
 
-## Connect
+Read [Google DeepMind’s case study on Cue](https://deepmind.google/models/gemma/gemmaverse/cue-ai/) for the implementation and evaluation of its on-device voice pipeline.
 
+## Company & contact
+
+- **Company:** Sophon LLC
 - **Website:** [sophoninc.com](https://sophoninc.com/)
-- **Product feedback and collaboration:** [feedback@sophoninc.com](mailto:feedback@sophoninc.com)
+- **Product inquiries and collaboration:** [feedback@sophoninc.com](mailto:feedback@sophoninc.com)
 
 ---
 
-智子 SOPHON：构建面向工作与学习的 AI 原生工具，让资料理解、内容表达、知识学习和任务执行逐步连接起来。
+**智子 SOPHON** 专注于 AI 智能体与生产力软件，产品涵盖桌面助手、AI 办公套件、文档处理、演示文稿和知识学习。
