@@ -34,7 +34,3 @@ Read [Google DeepMind’s case study on Cue](https://deepmind.google/models/gemm
 - **Company:** Sophon LLC
 - **Website:** [sophoninc.com](https://sophoninc.com/)
 - **Product inquiries and collaboration:** [feedback@sophoninc.com](mailto:feedback@sophoninc.com)
-
----
-
-**智子 SOPHON** 专注于 AI 智能体与生产力软件，产品涵盖桌面助手、AI 办公套件、文档处理、演示文稿和知识学习。
